@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./AboutModal\";","map":{"version":3,"sources":["/Users/claye/dev/sagev2/sf-portfolio/src/components/AboutModal/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,cAAxB","sourcesContent":["export { default } from \"./AboutModal\";\r\n"]},"metadata":{},"sourceType":"module"}
