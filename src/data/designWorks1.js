@@ -39,316 +39,276 @@ import imgT38 from "../assets/image/jpg/arrangements/sage-flowers-38.jpg";
 
 export const designWorks1 = [
   {
-    brand: `Sage Flowers`,
+    brand: `$15.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`],
+    categories: [`SF08047`,`Decor`],
     thumbnail: imgT5,
-  link : "#"
+  link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `$15.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`],
+    categories: [`SF08046`,`Decor`],
     thumbnail: imgT6,
-  link : "#"
+  link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `$28.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`, `Halloween`, `Fall`],
+    categories: [`SF08041`,`Decor`, `Halloween`, `Fall`],
     thumbnail: imgT7,
-  link : "#"
+  link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `sold`,
     slug: `arrangementId`,
     title: ``,
     categories: [`Decor`],
     thumbnail: imgT8,
-  link : "#"
+  link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `$45.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`, `Fall`],
+    categories: [`SF08004`,`Decor`, `Fall`],
     thumbnail: imgT9,
-  link : "#"
+  link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `$22.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`, `Halloween`],
+    categories: [`SF08043`,`Decor`, `Halloween`],
     thumbnail: imgT2,
-  link : "#"
+  link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$22.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Halloween`],
+  categories: [`SF08043`,`Decor`, `Halloween`],
   thumbnail: imgT1,
-link : "#"
+link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `$18.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`, `Fall`],
+    categories: [`SF08044`,`Decor`, `Fall`],
     thumbnail: imgT3,
-  link : "#"
+  link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `$18.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`],
+    categories: [`SF08042`,`Decor`],
     thumbnail: imgT4,
-  link : "#"
+  link : "/portfolio-details"
 },
   
   {
-    brand: `Sage Flowers`,
+    brand: `$45.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`],
+    categories: [`SF08004`,`Decor`],
     thumbnail: imgT10,
-  link : "#"
+  link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `$52.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`, `Centerpieces`],
+    categories: [`SF08008`,`Decor`, `Centerpieces`],
     thumbnail: imgT11,
-  link : "#"
+  link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `sold`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`, `Centerpieces`, `Fall`],
+    categories: [`SF08013`,`Decor`, `Centerpieces`, `Fall`],
     thumbnail: imgT12,
-  link : "#"
+  link : "/portfolio-details"
 },
   {
-    brand: `Sage Flowers`,
+    brand: `$32.00`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`Decor`, `Fall`],
+    categories: [`SF08021`,`Decor`, `Fall`],
     thumbnail: imgT13,
-  link : "#"
-},
-  {
-    brand: `Sage Flowers`,
-    slug: `arrangementId`,
-    title: ``,
-    categories: [`Decor`],
-    thumbnail: imgT14,
-  link : "#"
+  link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$40.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
-  thumbnail: imgT14,
-link : "#"
-},
-{
-  brand: `Sage Flowers`,
-  slug: `arrangementId`,
-  title: ``,
-  categories: [`Decor`],
+  categories: [`SF08009`,`Decor`],
   thumbnail: imgT15,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$40.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF08009`,`Decor`],
   thumbnail: imgT16,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$32.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Fall`],
+  categories: [`SF08005`,`Decor`, `Fall`],
   thumbnail: imgT17,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$29.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Fall`],
+  categories: [`SF08007`,`Decor`, `Fall`],
   thumbnail: imgT18,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$29.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Fall`],
+  categories: [`SF08007`,`Decor`, `Fall`],
   thumbnail: imgT19,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `sold`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF07273`,`Decor`],
   thumbnail: imgT20,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `sold`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF07378`,`Decor`],
   thumbnail: imgT21,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$35.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
-  thumbnail: imgT22,
-link : "#"
-},
-{
-  brand: `Sage Flowers`,
-  slug: `arrangementId`,
-  title: ``,
-  categories: [`Decor`],
+  categories: [`SF08019`,`Decor`],
   thumbnail: imgT23,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$35.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF08019`,`Decor`],
   thumbnail: imgT24,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$35.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF08001`,`Decor`],
   thumbnail: imgT25,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$30.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Fall`],
+  categories: [`SF08017`,`Decor`, `Fall`],
   thumbnail: imgT26,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$35.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF08002`,`Decor`],
   thumbnail: imgT27,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$30.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF08016`,`Decor`],
   thumbnail: imgT28,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$40.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF08003`,`Decor`],
   thumbnail: imgT29,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$48.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Fall`],
+  categories: [`SF08010`,`Decor`, `Fall`],
   thumbnail: imgT30,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$38.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF08014`,`Decor`],
   thumbnail: imgT31,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$38.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Fall`],
+  categories: [`SF08015`,`Decor`, `Fall`],
   thumbnail: imgT32,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$29.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`],
+  categories: [`SF08018`,`Decor`],
   thumbnail: imgT33,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$42.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Fall`],
+  categories: [`SF08006`,`Decor`, `Fall`],
   thumbnail: imgT34,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `sold`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Fall`],
+  categories: [`SF08020`,`Decor`, `Fall`],
   thumbnail: imgT35,
-link : "#"
+link : "/portfolio-details"
 },
 {
-  brand: `Sage Flowers`,
+  brand: `$42.00`,
   slug: `arrangementId`,
   title: ``,
-  categories: [`Decor`, `Fall`],
+  categories: [`SF08006`,`Decor`, `Fall`],
   thumbnail: imgT36,
-link : "#"
-},
-{
-  brand: `Sage Flowers`,
-  slug: `arrangementId`,
-  title: ``,
-  categories: [`Decor`],
-  thumbnail: imgT37,
-link : "#"
-},
-{
-  brand: `Sage Flowers`,
-  slug: `arrangementId`,
-  title: ``,
-  categories: [`Decor`, `Centerpieces`],
-  thumbnail: imgT38,
-link : "#"
-},
+link : "/portfolio-details"
+}
 ];
