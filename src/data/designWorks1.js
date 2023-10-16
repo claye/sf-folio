@@ -11,7 +11,6 @@ import imgT10 from "../assets/image/jpg/arrangements/sage-flowers-10.jpg";
 import imgT11 from "../assets/image/jpg/arrangements/sage-flowers-11.jpg";
 import imgT12 from "../assets/image/jpg/arrangements/sage-flowers-12.jpg";
 import imgT13 from "../assets/image/jpg/arrangements/sage-flowers-13.jpg";
-import imgT14 from "../assets/image/jpg/arrangements/sage-flowers-14.jpg";
 import imgT15 from "../assets/image/jpg/arrangements/sage-flowers-15.jpg";
 import imgT16 from "../assets/image/jpg/arrangements/sage-flowers-16.jpg";
 import imgT17 from "../assets/image/jpg/arrangements/sage-flowers-17.jpg";
@@ -19,7 +18,6 @@ import imgT18 from "../assets/image/jpg/arrangements/sage-flowers-18.jpg";
 import imgT19 from "../assets/image/jpg/arrangements/sage-flowers-19.jpg";
 import imgT20 from "../assets/image/jpg/arrangements/sage-flowers-20.jpg";
 import imgT21 from "../assets/image/jpg/arrangements/sage-flowers-21.jpg";
-import imgT22 from "../assets/image/jpg/arrangements/sage-flowers-22.jpg";
 import imgT23 from "../assets/image/jpg/arrangements/sage-flowers-23.jpg";
 import imgT24 from "../assets/image/jpg/arrangements/sage-flowers-24.jpg";
 import imgT25 from "../assets/image/jpg/arrangements/sage-flowers-25.jpg";
@@ -34,10 +32,164 @@ import imgT33 from "../assets/image/jpg/arrangements/sage-flowers-33.jpg";
 import imgT34 from "../assets/image/jpg/arrangements/sage-flowers-34.jpg";
 import imgT35 from "../assets/image/jpg/arrangements/sage-flowers-35.jpg";
 import imgT36 from "../assets/image/jpg/arrangements/sage-flowers-36.jpg";
-import imgT37 from "../assets/image/jpg/arrangements/sage-flowers-37.jpg";
-import imgT38 from "../assets/image/jpg/arrangements/sage-flowers-38.jpg";
+
+import imgT37 from "../assets/image/jpg/arrangements/SF08057.jpg";
+import imgT38 from "../assets/image/jpg/arrangements/SF08059.jpg";
+import imgT39 from "../assets/image/jpg/arrangements/SF08058.jpg";
+import imgT40 from "../assets/image/jpg/arrangements/SF08055.jpg";
+import imgT41 from "../assets/image/jpg/arrangements/SF08060.jpg";
+import imgT42 from "../assets/image/jpg/arrangements/SF08053.jpg";
+import imgT43 from "../assets/image/jpg/arrangements/SF08054.jpg";
+import imgT44 from "../assets/image/jpg/arrangements/SF08061.jpg";
+import imgT45 from "../assets/image/jpg/arrangements/SF08050.jpg";
+import imgT46 from "../assets/image/jpg/arrangements/SF08051.jpg";
+import imgT47 from "../assets/image/jpg/arrangements/SF08056.jpg";
+import imgT48 from "../assets/image/jpg/arrangements/SF08034.jpg";
+import imgT49 from "../assets/image/jpg/arrangements/SF08029.jpg";
+import imgT50 from "../assets/image/jpg/arrangements/SF08033.jpg";
+import imgT51 from "../assets/image/jpg/arrangements/SF08027.jpg";
+import imgT52 from "../assets/image/jpg/arrangements/SF08028-sold.jpg";
+import imgT53 from "../assets/image/jpg/arrangements/SF08-custom-sold.jpg";
+
 
 export const designWorks1 = [
+  {
+    brand: `$30.00`,
+    slug: `arrangementId`,
+    title: ``,
+    categories: [`SF08057`,`Decor`],
+    thumbnail: imgT37,
+  link : "/portfolio-details"
+},
+{
+  brand: `sold`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`sold`,`Decor`],
+  thumbnail: imgT38,
+link : "/portfolio-details"
+},
+{
+  brand: `$23.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08058`,`Decor`],
+  thumbnail: imgT39,
+link : "/portfolio-details"
+},
+{
+  brand: `$25.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08055`,`Decor`],
+  thumbnail: imgT40,
+link : "/portfolio-details"
+},
+{
+  brand: `$30.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08060`,`Decor`],
+  thumbnail: imgT41,
+link : "/portfolio-details"
+},
+{
+  brand: `$40.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08053`,`Decor`],
+  thumbnail: imgT42,
+link : "/portfolio-details"
+},
+{
+  brand: `sold`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`sold`,`Decor`],
+  thumbnail: imgT43,
+link : "/portfolio-details"
+},
+{
+  brand: `$32.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08061`,`Decor`],
+  thumbnail: imgT44,
+link : "/portfolio-details"
+},
+{
+  brand: `$18.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08050`,`Decor`],
+  thumbnail: imgT45,
+link : "/portfolio-details"
+},
+{
+  brand: `$25.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08051`,`Decor`],
+  thumbnail: imgT46,
+link : "/portfolio-details"
+},
+{
+  brand: `$30.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08056`,`Decor`],
+  thumbnail: imgT47,
+link : "/portfolio-details"
+},
+{
+  brand: `$45.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08034`,`Decor`],
+  thumbnail: imgT48,
+link : "/portfolio-details"
+},
+{
+  brand: `$50.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08029`,`Decor`],
+  thumbnail: imgT49,
+link : "/portfolio-details"
+},
+{
+  brand: `$35.00`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`SF08033`,`Decor`],
+  thumbnail: imgT50,
+link : "/portfolio-details"
+},
+{
+  brand: `sold`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`sold`,`Decor`],
+  thumbnail: imgT51,
+link : "/portfolio-details"
+},
+{
+  brand: `sold`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`sold`,`Decor`],
+  thumbnail: imgT52,
+link : "/portfolio-details"
+},
+{
+  brand: `sold`,
+  slug: `arrangementId`,
+  title: ``,
+  categories: [`sold`,`Decor`],
+  thumbnail: imgT53,
+link : "/portfolio-details"
+},
+  
   {
     brand: `$15.00`,
     slug: `arrangementId`,
@@ -71,10 +223,10 @@ export const designWorks1 = [
   link : "/portfolio-details"
 },
   {
-    brand: `$45.00`,
+    brand: `sold`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`SF08004`,`Decor`, `Fall`],
+    categories: [`sold`,`Decor`, `Fall`],
     thumbnail: imgT9,
   link : "/portfolio-details"
 },
@@ -112,10 +264,10 @@ link : "/portfolio-details"
 },
   
   {
-    brand: `$45.00`,
+    brand: `sold`,
     slug: `arrangementId`,
     title: ``,
-    categories: [`SF08004`,`Decor`],
+    categories: [`sold`,`Decor`],
     thumbnail: imgT10,
   link : "/portfolio-details"
 },

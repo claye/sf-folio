@@ -6,7 +6,7 @@ import { Link } from "react-scroll";
 import { Title, Button, Section, Box, Text } from "../../components/Core";
 
 import { device } from "../../utils";
-import imgL from "../../assets/image/png/sam-3.png";
+import imgL from "../../assets/image/png/sam-4.png";
 
 const ImgRight = styled.img`
   max-width: 100%;
