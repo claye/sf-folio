@@ -14,7 +14,7 @@ const ContactForm = ({ theme = "light", ...rest }) => {
       {...rest}
     >
       {/* You still need to add the hidden input with the form name to your JSX form */}
-      <input type="hidden" name="sage-flowers-website-form" value="contact" />
+      <input type="hidden" name="sage-flowers-website-form" value="Contact" />
       <div className="mt-4">
         <Input type="text" placeholder="Your name" required name="name" />
       </div>
