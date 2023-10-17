@@ -8,9 +8,9 @@ const ContactForm = ({ theme = "light", ...rest }) => {
   return (
     <Form
       name="contact"
-      method="post"
+      method="POST"
       data-netlify="true"
-      data-netlify-honeypot="bot-field"
+      //data-netlify-honeypot="bot-field"
       {...rest}
     >
       {/* You still need to add the hidden input with the form name to your JSX form */}
