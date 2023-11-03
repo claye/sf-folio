@@ -443,11 +443,11 @@ const Header = ({ isDark }) => {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="/#"
-                      onClick={(e) => {
-                        e.preventDefault();
-                        gContext.toggleContact();
-                      }}
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSdwNvlvDYWCtDNaX5Ses5oQcYScaXvSp0MHmrBIcFzAjTnFBQ/viewform?usp=sf_link"
+                      //onClick={(e) => {
+                        //e.preventDefault();
+                        //gContext.toggleContact();
+                      //}}
                     >
                       contact.
                     </a>

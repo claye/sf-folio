@@ -19,12 +19,7 @@ const Hero = () => {
                 <Title>Looking for a professional design? Let's talk.</Title>
               </div>
               <div className="text-center">
-                <ButtonIcon
-                  onClick={(e) => {
-                    e.preventDefault();
-                    gContext.toggleContact();
-                  }}
-                >
+                <ButtonIcon onClick={() => window.open("https://docs.google.com/forms/d/e/1FAIpQLSdwNvlvDYWCtDNaX5Ses5oQcYScaXvSp0MHmrBIcFzAjTnFBQ/viewform?usp=sf_link")}>
                   Let's Talk Now
                 </ButtonIcon>
               </div>
