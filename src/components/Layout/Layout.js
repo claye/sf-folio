@@ -5,6 +5,11 @@ import React, {
   useContext,
   useRef,
 } from "react";
+import TagManager from 'react-gtm-module';
+const tagManagerArgs = {
+  gtmId: 'GTM-58HTSLLL'
+}
+TagManager.initialize(tagManagerArgs)
 
 import styled, { ThemeProvider } from "styled-components";
 import Head from "next/head";
@@ -104,6 +109,7 @@ const Layout = ({ children, pageContext }) => {
         <Head>
           <title>Sage Flowers - Custom Faux and Silk Flower Arrangements</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
+          
         </Head>
         <Loader id="loading" className={visibleLoader ? "" : "inActive"}>
           <div className="load-circle">
@@ -113,6 +119,12 @@ const Layout = ({ children, pageContext }) => {
         <div className="site-wrapper overflow-hidden" ref={eleRef}>
           {children}
         </div>
+       
+<form name="contact" netlify netlify-honeypot="bot-field" hidden>
+  <input type="text" name="name" />
+  <input type="email" name="email" />
+  <textarea name="message"></textarea>
+</form>
 
         <ModalVideo />
       </ThemeProvider>
