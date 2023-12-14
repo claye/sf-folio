@@ -9,7 +9,9 @@ import TagManager from 'react-gtm-module';
 const tagManagerArgs = {
   gtmId: 'GTM-58HTSLLL'
 }
-TagManager.initialize(tagManagerArgs)
+if (process.browser) {
+  TagManager.initialize(tagManagerArgs);
+}
 
 import styled, { ThemeProvider } from "styled-components";
 import Head from "next/head";
@@ -143,6 +145,7 @@ const Layout = ({ children, pageContext }) => {
         <Head>
           <title>Sage Flowers - Custom Faux and Silk Flower Arrangements</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
+          
         </Head>
         <Loader id="loading" className={visibleLoader ? "" : "inActive"}>
           <div className="load-circle">
